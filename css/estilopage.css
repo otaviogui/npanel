@@ -1,0 +1,58 @@
+body {
+	background: url(http://i47.servimg.com/u/f47/13/27/41/49/dia10.png);
+}
+.titulo {
+	margin-top: 50px;
+	position: absolute;
+	width: 500px;
+	float: center;
+	margin: 9% 29%;
+}
+.painel {
+	position: relative;
+	margin-top: 120px;
+	width: 500px;
+	margin: 14% 29%;
+	height: 150px;
+}
+.pular {
+	margin-top: 5px;
+}
+.pular1 {
+	margin-top: 15px;
+}
+.centralizar {
+	margin-left: 35%;
+	position: absolute;
+	width: 100px;
+}
+.erro {
+	margin-top: -20px;
+}
+.top {
+	margin-top: 30vh;
+}
+.top1 {
+	margin-top: 12vh;
+}
+.top2 {
+	margin-top: -1vh;
+}
+.top3 {
+	margin-top: 2px;
+}
+.top4 {
+	margin-top: 45vh;
+}
+.top6 {
+	margin-top: -15vh;
+}
+.sair {
+	text-decoration: none;
+}
+.left1 {
+	margin-left: 5vh !important; 
+}
+.img-perso {
+	cursor: pointer;
+}
